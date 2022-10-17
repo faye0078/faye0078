@@ -1,1 +1,2 @@
-<img src="./profile-3d-contrib/profile-season.svg" height="100%" width="100%" >
+![](./profile-3d-contrib/profile-season.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
